@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+title: "CTN Validation Package: Numerical solver and verification code for the Caprock Transmission Number framework"
+message: "If you use this software, please cite the associated manuscript."
+type: software
+authors:
+  - family-names: Mbah
+    given-names: Hans Tah
+    affiliation: "Institute for Groundwater Studies, University of the Free State"
+    email: mbah.ht@ufs.ac.za
+version: 1.0.0
+license: MIT
+date-released: 2026-05-27
+abstract: >
+  Reproducibility package for the Caprock Transmission Number (CTN)
+  framework. Contains a Crank-Nicolson finite-difference solver for
+  caprock pressure diffusion, closed-form analytical reference
+  implementations, a three-stage validation suite (Terzaghi benchmark,
+  CTN sweep verification, field-site retrospective consistency), and a
+  unit-test suite.
+preferred-citation:
+  type: article
+  title: "The Caprock Transmission Number: A Dimensionless Screening Criterion for Diffusion-Dominated Pressure and Thermal Signal Propagation in CO2 Storage Caprocks"
+  authors:
+    - family-names: Mbah
+      given-names: Hans Tah
+      affiliation: "Institute for Groundwater Studies, University of the Free State"
+  journal: "International Journal of Greenhouse Gas Control"
+  year: 2026
