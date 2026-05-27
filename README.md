@@ -1,4 +1,5 @@
 # CTN Validation Package
+[![DOI](https://zenodo.org/badge/1251268338.svg)](https://doi.org/10.5281/zenodo.20411900)
 
 **Reproducibility package for the Caprock Transmission Number (CTN) framework**
 
